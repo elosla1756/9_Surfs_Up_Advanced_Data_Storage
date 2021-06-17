@@ -3,7 +3,7 @@
 
 ## **Overview of the Weather Statistics Analysis**: the purpose of this analysis was to better understand weather patterns on Oahu during the months of June versus December, in order to determine if the surf and ice cream shop business is sustainable year-round. 
 
-### In order to develop the statistics for both June and December, we used a combination of Python, Pandas functions and methods, and SQLAlchemy to filter the date column of the Measurements table in our hawaii.sqlite database. We used the same approach in both deliverables, whereby we filtered the date column to show either month 6 for Deliverable 1, or month 12 for Deliverable 12. Each list was then converted to a DataFrame, which enabled use to calculate statistics on each set of temperatures. 
+### In order to develop the statistics for both June and December, we used a combination of Python, Pandas functions and methods, and SQLAlchemy to filter the date column of the Measurements table in our hawaii.sqlite database. We used the same approach in both deliverables, whereby we filtered the date column to show either month 6 for Deliverable 1, or month 12 for Deliverable 2. Each list was then converted to a DataFrame, which enabled use to calculate statistics on each set of temperatures. 
 
 ## **Results**: 
 
